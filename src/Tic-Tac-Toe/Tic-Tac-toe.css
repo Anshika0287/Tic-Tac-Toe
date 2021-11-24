@@ -1,0 +1,22 @@
+.container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+table td {
+	border: 3px solid  pink;
+	width: 100px;
+	height: 100px;
+    font-size: 5vw;
+}
+
+button{
+    width:20vw;
+    height:5vw;
+    color:black;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+    font-size: 2.5vw;
+	margin-top: 3vw;
+}
